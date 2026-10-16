@@ -3,9 +3,9 @@
   "theme": "luma",
   "name": "LyricAI Docs",
   "colors": {
-    "primary": "#FFFEFD",
-    "light": "#852535",
-    "dark": "#751E2D"
+    "primary": "#852535",
+    "light": "#EB9096",
+    "dark": "#852535"
   },
   "favicon": {
     "light": "/images/favicon.ico",
@@ -73,5 +73,14 @@
       "linkedin": "https://linkedin.com/company/mintlify"
     }
   },
-  "description": "Paste a Spotify or YouTube link, or upload an audio file, and get the song's lyrics: transcribed from the recording, timed line by line, optionally translated, and downloadable as LRC, SRT, TXT, Markdown, or JSON. Spotify songs that already have public synced lyrics on LRCLIB are returned free."
+  "description": "Paste a Spotify or YouTube link, or upload an audio file, and get the song's lyrics: transcribed from the recording, timed line by line, optionally translated, and downloadable as LRC, SRT, TXT, Markdown, or JSON. Spotify songs that already have public synced lyrics on LRCLIB are returned free.",
+  "thumbnails": {
+    "background": "/images/lyricai-logo-horizontal-light.svg"
+  },
+  "background": {
+    "color": {
+      "light": "#FBFAF7",
+      "dark": "#110D0D"
+    }
+  }
 }
