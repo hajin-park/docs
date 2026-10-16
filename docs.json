@@ -3,9 +3,9 @@
   "theme": "luma",
   "name": "LyricAI Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#FFFEFD",
+    "light": "#852535",
+    "dark": "#751E2D"
   },
   "favicon": {
     "light": "/images/favicon.ico",
